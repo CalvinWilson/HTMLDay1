@@ -1,0 +1,22 @@
+h1 {
+	font-family: "Times New Roman" ;
+	color: blue;
+	margin-left: 20px;
+}
+
+p {
+	color: red;
+}
+.hobbies {
+	font-weight: bold;
+	color: orange;
+	font-size: 1.5em;
+}
+
+table, td, th{
+	border: 3px solid black;
+}
+
+ul {
+	font-style: italic;
+}
